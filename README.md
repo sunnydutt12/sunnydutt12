@@ -295,7 +295,7 @@ A complete restaurant ecosystem covering operations from customer ordering to ki
 
 <td width="50%" valign="top">
 
-## 👁️ PreCog
+## 👁️ Video Analytics and Dashboards
 
 An intelligent video analytics platform designed around modern AI and computer vision technologies.
 
@@ -309,6 +309,7 @@ An intelligent video analytics platform designed around modern AI and computer v
 * Security monitoring
 * Operational intelligence
 * Real-time alerting
+* Interactive Dashboards
 
 ### Technology
 
